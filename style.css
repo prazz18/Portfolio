@@ -1,0 +1,27 @@
+.name{
+    color: #f4842f;
+}
+html{
+    scroll-behavior: smooth;
+}
+.greeting
+{
+    font-size: 1.6rem;
+}
+.image
+{   
+    transform: translate(-100px,0px);
+    width: 28%;
+    height: 28%;
+}
+.edu
+{
+    font-family: Montserrat;
+}
+
+  .custom-shape {
+    clip-path: polygon(0% 0%, 100% 0%, 50% 100%);
+
+  }
+
+/* #f4842f */
